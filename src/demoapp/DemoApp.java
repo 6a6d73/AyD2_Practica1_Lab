@@ -25,7 +25,7 @@ public class DemoApp {
         System.out.println("Enter a number: ");
         int n = reader.nextInt(); // Scans the next token of the input as an int.
         System.out.println(n + " is a nice number but I prefer " + n*5/4+(n/3) + ".");
-        
+        Let's break this' thing
     }
     
 }
