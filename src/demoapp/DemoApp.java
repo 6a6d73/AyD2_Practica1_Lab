@@ -15,7 +15,7 @@ public class DemoApp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // This will print Hello world! and add a newline.
         System.out.println("Hello world!");
     }
     
